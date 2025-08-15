@@ -6,7 +6,7 @@ A simple 2-player Tic-Tac-Toe game built with Java (Java Project in VS Code).
 - Two-players (X and O)
 - Displays current player's turn
 - Highlights the winner or shows a tie
-- Simple GUI using JFrame, JPanel, and JButton
+- Simple GUI using `JFrame`, `JPanel`, and `JButton`
 
 **Controls**
 - Click on an empty tile to make a move.
